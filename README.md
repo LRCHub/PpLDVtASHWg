@@ -1,0 +1,79 @@
+# Camila Cabello – My Oh My
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:11.39] They say he likes a good time
+[00:13.94] (My oh my)
+[00:15.80] He comes alive at midnight
+[00:18.31] (Every night)
+[00:20.59] My momma doesn't trust him
+[00:22.91] (My oh my)
+[00:25.02] He's only here for one thing, but (So am I)
+[00:46.52] 
+[00:30.80] A little bit older
+[00:33.03] A black leather jacket
+[00:35.35] A bad reputation
+[00:37.40] Insatiable habits
+[00:39.72] He was onto me, one look and I couldn't breathe
+[00:43.32] Yeah, I said if you kiss me
+[00:46.85] I might let it happen
+[00:57.35] 
+[00:50.22] I swear on my life that I've been a good girl
+[00:54.77] Tonight I don't wanna be her
+[01:08.77] 
+[00:57.10] They say he likes a good time
+[00:59.49] (My oh my)
+[01:01.45] He comes alive at midnight
+[01:04.28] (Every night)
+[01:06.29] My momma doesn't trust him
+[01:09.05] (My oh my)
+[01:10.54] He's only here for one thing but (Let's go)
+[01:13.34] So am I
+[01:16.84] 
+[01:15.25] Look, I'm the type to make her turn on her daddy
+[01:17.44] DaBaby make her forget what she learned from her daddy
+[01:19.78] I don't be trippin on lil' shawty, I let her do whatever she please
+[01:21.54] I don't be kissin' on lil' shawty, she don't be kissin' on me either
+[01:55.54] 
+[01:24.21] She came with you and then left with me
+[01:25.37] I went up a point, let's call it even (Yeah)
+[01:26.72] Don't like the car she in
+[01:27.52] Gonna end up buying her a new Beamer (Let's go)
+[01:51.02] 
+[01:29.14] That girl know what she want
+[01:29.86] She make me take it off when she see me (Let's go)
+[01:31.27] She say I make her wet whenever my face pop up on TV
+[01:33.59] I had to say, "No disrespect, gotta do it safe or you can keep it"
+[01:35.88] Pop star, I'm fresh up out the trap and I'm goin' deeper
+[01:38.12] She know I'ma call away, she can drop a pin and I come meet her
+[01:40.42] Stand next to me, you gon' end up catchin' a fever
+[01:42.38] I'm hot, yeah
+[01:48.88] 
+[01:45.18] I swear on my life that I've been
+[01:46.40] A good girl (Good girl, good girl)
+[01:49.40] Tonight I don't wanna be her
+[02:03.40] 
+[01:51.46] They say he likes a good time
+[01:54.63] (My oh my)
+[01:56.36] He comes alive at midnight
+[01:58.32] (He comes alive, oh every night)
+[02:00.85] My momma doesn't trust him
+[02:03.15] (My oh my)
+[02:05.58] He's only here for one thing, but (So am I)
+[02:27.08] 
+[02:10.47] My my my my my oh my
+[02:13.06] My momma doesn't trust you baby
+[02:15.17] My my my my my oh my
+[02:17.56] And my daddy doesn't know you, no
+[02:19.52] My-my-my-my-my-oh-my-oh
+[02:22.61] My-my-my-my-my-my-oh-my
+[02:34.11] 
+[02:28.46] They say he likes a good time
+[02:30.94] (My oh my)
+[02:32.88] He comes alive at midnight
+[02:35.65] (Every night)
+[02:37.39] My momma doesn't trust him
+[02:40.12] (My oh my)
+[02:42.18] He's only here for one thing, but (So am I)
+```
