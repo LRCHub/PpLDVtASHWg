@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "My Oh My",
+  "base_artist": "Camila Cabello",
+  "createdAt": "2025-12-25T13:04:36.815676Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Oh My",
+      "artist": "Sad Café",
+      "has_synced": false,
+      "path": "select/01_My_Oh_My_Sad_Café.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Oh My",
+      "artist": "Aqua",
+      "has_synced": true,
+      "path": "select/02_My_Oh_My_Aqua.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Oh My (Disco 70's Mix)",
+      "artist": "Aqua",
+      "has_synced": true,
+      "path": "select/03_My_Oh_My_(Disco_70's_Mix)_Aqua.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Oh My (Extended Version)",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/04_My_Oh_My_(Extended_Version)_Aqua.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Oh My (H2O Club Remix)",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/05_My_Oh_My_(H2O_Club_Remix)_Aqua.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My Oh My (Radio Edit)",
+      "artist": "Aqua",
+      "has_synced": true,
+      "path": "select/06_My_Oh_My_(Radio_Edit)_Aqua.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Oh My - Spike, Clyde'N'Eightball Club Mix",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/07_My_Oh_My_-_Spike,_Clyde'N'Eightball_Club_Mix_Aqua.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Oh My (Spike, Clyde ’n’ Eightball club mix)",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/08_My_Oh_My_(Spike,_Clyde_’n’_Eightball_club_mix)_Aqua.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Oh My (disco 70’s mix)",
+      "artist": "Aqua",
+      "has_synced": true,
+      "path": "select/09_My_Oh_My_(disco_70’s_mix)_Aqua.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Oh My (extended)",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/10_My_Oh_My_(extended)_Aqua.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My, Oh My",
+      "artist": "The Wreckers",
+      "has_synced": true,
+      "path": "select/11_My,_Oh_My_The_Wreckers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "My Oh My",
+      "artist": "Ryan Lewis & Macklemore",
+      "has_synced": true,
+      "path": "select/12_My_Oh_My_Ryan_Lewis_&_Macklemore.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "My Oh My",
+      "artist": "Macklemore & Ryan Lewis",
+      "has_synced": true,
+      "path": "select/13_My_Oh_My_Macklemore_&_Ryan_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "my oh my",
+      "artist": "bbno$",
+      "has_synced": true,
+      "path": "select/14_my_oh_my_bbno$.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "my oh my",
+      "artist": "bbno$",
+      "has_synced": false,
+      "path": "select/15_my_oh_my_bbno$.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "My Oh My (feat. DaBaby)",
+      "artist": "Camila Cabello feat. DaBaby",
+      "has_synced": true,
+      "path": "select/16_My_Oh_My_(feat._DaBaby)_Camila_Cabello_feat._DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "My Oh My (feat. DaBaby)",
+      "artist": "Camila Cabello, DaBaby",
+      "has_synced": true,
+      "path": "select/17_My_Oh_My_(feat._DaBaby)_Camila_Cabello,_DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "My Oh My",
+      "artist": "Camila Cabello",
+      "has_synced": true,
+      "path": "select/18_My_Oh_My_Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "My Oh My (feat. DaBaby)",
+      "artist": "Camila Cabello",
+      "has_synced": true,
+      "path": "select/19_My_Oh_My_(feat._DaBaby)_Camila_Cabello.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "My Oh My (feat. DaBaby)",
+      "artist": "Camila Cabello",
+      "has_synced": false,
+      "path": "select/pl_01_My_Oh_My_(feat._DaBaby)_Camila_Cabello.txt"
+    }
+  ]
+}
